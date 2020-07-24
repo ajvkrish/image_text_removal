@@ -1,6 +1,8 @@
 node_modules/*
 eng.traineddata
 output_jpegs/*
+output_images/*
+temp_images/*
 *.txt
 *binary.*
 *rect*

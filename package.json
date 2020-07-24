@@ -18,7 +18,8 @@
   "homepage": "https://github.com/ajvkrish/image_text_removal#readme",
   "dependencies": {
     "fs": "0.0.1-security",
-    "glob": "^7.1.6",
+    "fs-extra": "^9.0.1",
+    "glob-fs": "^0.1.7",
     "node-tesseract": "^0.2.7",
     "node-tesseract-ocr": "^2.0.0",
     "opencv4nodejs": "^5.6.0",
